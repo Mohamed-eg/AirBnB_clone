@@ -74,4 +74,4 @@ What you should learn from this project:
 
 ## Author
 * **Mohammed Alshayb** - [Mohamed](https://github.com/mohamed-eg)
-* **MBemin Dawoud** - [Mohamed](https://github.com/BeminDawoud)
+* **Bemin Dawoud** - [Bemin](https://github.com/BeminDawoud)
